@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Vikas<br><br>🎓 CSE Student at Canara Engineering College<br><br>💻 Skills<br>- Java, Spring Boot, MongoDB, MySQL,  HTML , CSS, JavaScript,  React , Node.js <br>🚀 Projects<br>- ♻ AI Waste Segregation System<br>- 📝 Automated OMR Evaluation System<br>- 🤖 AI Student Placement Recommendation<br><br>🌱 Currently Learning<br>- Data Structures & Algorithms<br>- Spring Boot<br>- System Design<br><br>📫 Email: vikaspanjikalemail@example.com<br><br>⭐ Thanks for visiting my profile!
+# Hi 👋, I'm Vikas<br><br>🎓 CSE Student at Canara Engineering College<br><br>💻 Skills<br>- Java, Spring Boot, MongoDB, MySQL,  HTML , CSS, JavaScript,  React , Node.js.<br>  <br>🚀 Projects<br>- ♻ AI Waste Segregation System<br>- 📝 Automated OMR Evaluation System<br>- 🤖 AI Student Placement Recommendation<br><br>🌱 Currently Learning<br>- Data Structures & Algorithms<br>- Spring Boot<br>- System Design<br><br>📫 Email: vikaspanjikalemail@example.com<br><br>⭐ Thanks for visiting my profile!
 
 
 ## 🌐 Socials:
