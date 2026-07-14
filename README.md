@@ -1,94 +1,24 @@
-<h1 align="center">Hi 👋, I'm Vikas</h1>
+# 💫 About Me:
+# Hi 👋, I'm Vikas<br><br>🎓 CSE Student at Canara Engineering College<br><br>💻 Skills<br>- Java<br>- Spring Boot<br>- MongoDB<br>- MySQL<br>- HTML<br>- CSS<br>- JavaScript<br>- React<br>- Node.js<br><br>🚀 Projects<br>- ♻ AI Waste Segregation System<br>- 📝 Automated OMR Evaluation System<br>- 🤖 AI Student Placement Recommendation<br><br>🌱 Currently Learning<br>- Data Structures & Algorithms<br>- Spring Boot<br>- System Design<br><br>📫 Email: vikaspanjikalemail@example.com<br><br>⭐ Thanks for visiting my profile!
 
-<h3 align="center">💻 Java Full Stack Developer | 🤖 AI & Machine Learning Enthusiast | 🎓 CSE Student</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Java+Developer;Spring+Boot+Developer;Machine+Learning+Enthusiast;Always+Learning+🚀"/>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas1252) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikaspanjikal@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Vikas6361&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Vikas6361&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vikas6361&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🙋 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vikas6361&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🎓 B.E. Computer Science Engineering
-- 🏫 Canara Engineering College
-- 🌱 Learning **Spring Boot, React, DSA**
-- 💡 Interested in **AI, Machine Learning & Full Stack Development**
-- 📍 Karnataka, India
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman"/>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vikas6361&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Vikas6361&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| ♻ AI Waste Segregation | TensorFlow + Node.js + MongoDB |
-| 🤖 Student Placement Recommendation | ML Recommendation System |
-| 📝 Automated OMR Evaluation | OpenCV + Python |
-| 🌐 Java Full Stack Projects | Spring Boot + MySQL |
-
----
-
-## 📚 Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,mongodb,mysql,docker,git"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/Vikas6361">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:vikaspanjikal@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
