@@ -1,62 +1,88 @@
 <h1 align="center">Hi 👋, I'm Vikas</h1>
-<h3 align="center">CSE Student | Java Full Stack Developer | AI & Machine Learning Enthusiast</h3>
+
+<h3 align="center">Java Full Stack Developer | AI & ML Enthusiast | CSE Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;AI+%7C+Machine+Learning;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.E. Computer Science Engineering Student
+🎓 **B.E. Computer Science Engineering**
 
-🏫 Canara Engineering College, Karnataka
+🏫 **Canara Engineering College**
+
+📍 **Karnataka, India**
 
 💻 Passionate about Java Full Stack Development
 
-🤖 Interested in AI, Machine Learning & Web Development
+🤖 Interested in Artificial Intelligence & Machine Learning
 
 🌱 Currently Learning
-- Spring Boot
-- Data Structures & Algorithms
-- React
-- System Design
 
-📫 Email: **vikaspanjikalemail@example.com**
+- Spring Boot
+- React
+- Data Structures & Algorithms
+- System Design
 
 ---
 
-## 🚀 Tech Stack
-
-### Programming Languages
+# 🛠 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,python,javascript" />
+<img src="https://skillicons.dev/icons?i=java" /><br><br>
+<img src="https://skillicons.dev/icons?i=python" /><br><br>
+<img src="https://skillicons.dev/icons?i=c" /><br><br>
+<img src="https://skillicons.dev/icons?i=javascript" />
 </p>
 
-### Frontend
+---
+
+# 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html" /><br><br>
+<img src="https://skillicons.dev/icons?i=css" /><br><br>
+<img src="https://skillicons.dev/icons?i=bootstrap" /><br><br>
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-### Backend
+---
+
+# ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs" /><br><br>
+<img src="https://skillicons.dev/icons?i=express" /><br><br>
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-### Database
+---
+
+# 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### Tools
+---
+
+# ☁ Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman" />
+<img src="https://skillicons.dev/icons?i=git" /><br><br>
+<img src="https://skillicons.dev/icons?i=github" /><br><br>
+<img src="https://skillicons.dev/icons?i=vscode" /><br><br>
+<img src="https://skillicons.dev/icons?i=eclipse" /><br><br>
+<img src="https://skillicons.dev/icons?i=idea" /><br><br>
+<img src="https://skillicons.dev/icons?i=postman" /><br><br>
+<img src="https://skillicons.dev/icons?i=firebase" /><br><br>
+<img src="https://skillicons.dev/icons?i=docker" /><br><br>
+<img src="https://skillicons.dev/icons?i=tensorflow" /><br><br>
+<img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
 ---
@@ -65,82 +91,53 @@
 
 ### ♻ AI Waste Segregation System
 
-- AI-powered waste classification
-- TensorFlow Model
-- Node.js + Express
+- TensorFlow
+- Node.js
 - MongoDB
 - Google Maps API
+- AI Image Classification
 
 ---
 
 ### 📝 Automated OMR Evaluation System
 
-- OpenCV
 - Python
+- OpenCV
 - Image Processing
-- Automatic Answer Evaluation
+- Automatic Scoring
 
 ---
 
 ### 🤖 AI Student Placement Recommendation System
 
 - Machine Learning
-- Recommendation System
-- Student Skill Analysis
-- Placement Prediction
+- MERN Stack
+- Recommendation Engine
+- Resume Analysis
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Vikas6361&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=Vikas6361&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas6361&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Vikas6361&theme=onedark&margin-w=15)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Vikas6361&theme=tokyo-night)
-
----
-
-## 🌐 Connect with Me
+# 📫 Connect With Me
 
 <p>
 <a href="https://github.com/Vikas6361">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:vikaspanjikalL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+
+
 </p>
 
 ---
 
-<p align="center">
+## 💡 Quote
 
-⭐ If you like my projects, consider giving them a Star ⭐
-
-</p>
+> **"Code. Learn. Build. Repeat." 🚀**
